@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis
-Exploratory Data Analysis - Course Project
+### Exploratory Data Analysis - Course Project
 
 This repository houses the results for the 1st course project for the Exploratory Data Analysis class in the Data Science Specialization. The following quoted section comes from the forked original readme.md file. The result and solutions are found below following the quoted section.
 
