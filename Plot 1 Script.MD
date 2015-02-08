@@ -1,7 +1,7 @@
 #Plot 1 Script
 #######Load data.table library
 
-`library(data.table)`
+`library(data.table)`;
 `data<- fread("household_power_consumption.txt")`
 `class(data$Date)`
 
