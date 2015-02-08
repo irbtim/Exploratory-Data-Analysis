@@ -7,14 +7,13 @@
 `class(data$Date)`
 
 `class(data$Time)`
-
+#######Change the format of Date
 `data$Date <- as.Date(data$Date, format="%d/%m/%Y")`
 
 `class(data$Date)`
-
+#######Subset the data
 `data_subset <- data[data$Date=="2007-02-01" | data$Date=="2007-02-02"]`
-
-`class(data_subset)`
+#`class(data_subset)`
 
 `data_subset <- data.frame(data_subset)`
 
