@@ -9,7 +9,7 @@ class(data$Date)
 class(data$Time)
 
 #######Change the format of Date
-data$Date <- as.Date(data$Date, format="%d/%m/%Y")`
+data$Date <- as.Date(data$Date, format="%d/%m/%Y")
 class(data$Date)
 
 #######Subset the data
