@@ -1,5 +1,6 @@
 #Plot 1 Script
-####Load data.table library####
+Load data.table library
+========================
 `library(data.table)`
 
 `data <- fread("household_power_consumption.txt")`
