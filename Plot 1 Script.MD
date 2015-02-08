@@ -1,7 +1,6 @@
 #Plot 1 Script
 `library(data.table)`
 `data <- fread("household_power_consumption.txt")`
-
 `class(data$Date)`
 
 `class(data$Time)`
