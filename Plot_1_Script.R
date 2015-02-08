@@ -1,4 +1,4 @@
-Plot 1 Script
+#Plot 1 Script
 
 #Load data.table library
 library(data.table)
